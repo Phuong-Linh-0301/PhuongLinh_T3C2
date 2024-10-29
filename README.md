@@ -1,1 +1,2 @@
-# PhuongLinh_T3C2
+Nguyễn Trần Phương Linh, sinh ngày 03/01/2004, quê quán Hưng Yên, là một cô gái sinh ra và lớn lên tại thành phố Pleiku, Gia Lai – nơi được mệnh danh là "thành phố ngủ ngon nhất Việt Nam". Hiện tại, Phương Linh đang theo học chuyên ngành Kiểm Thử Phần Mềm với định hướng tương lai trở thành một tester chuyên nghiệp. Với niềm đam mê công nghệ và sự kiên trì trong học tập, cô hy vọng sẽ đóng góp tích cực vào lĩnh vực phần mềm trong thời gian tới.
+
